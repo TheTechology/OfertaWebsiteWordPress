@@ -31,9 +31,3 @@ Realizate de Marian Dumitru – UX/UI Designer & Frontend Developer.
 - 🌐 Website: https://ofertawebsitewordpress.netlify.app/ 
 
 ---
-
-### 📲 Scanează pentru acces rapid
-
-QR Code către pagina cu oferta online:
-
-![QR Oferta](https://raw.githubusercontent.com/TheTechology/ofertawebwordpress/main/qr_oferta_wordpress.png)
