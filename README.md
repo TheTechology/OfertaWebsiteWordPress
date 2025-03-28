@@ -21,15 +21,14 @@ Realizate de Marian Dumitru – UX/UI Designer & Frontend Developer.
 👉 [Trimite un email](mailto:thetechologyhub@gmail.com?subject=Doresc%20oferta%20website%20WordPress)
 
 🌍 **Vezi online oferta completă:**  
-👉 [https://marian-dumitru.ro/oferte-wordpress](https://marian-dumitru.ro/oferte-wordpress)
+👉 https://ofertawebsitewordpress.netlify.app/ 
 
 ---
 
 ### 📱 Contact
 
 - 📧 Email: thetechologyhub@gmail.com  
-- 🌐 Website: [marian-dumitru.ro](https://marian-dumitru.ro)  
-- 🧑‍💻 GitHub: [@TheTechology](https://github.com/TheTechology)
+- 🌐 Website: https://ofertawebsitewordpress.netlify.app/ 
 
 ---
 
