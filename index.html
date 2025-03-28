@@ -86,23 +86,6 @@
       align-items: center;
       gap: 0.6rem;
     }
-    h2::before {
-      font-family: "Font Awesome 6 Free";
-      font-weight: 900;
-      color: #10b981;
-    }
-    h2:has(:contains('Despre mine'))::before {
-      content: "\f406";
-    }
-    h2:has(:contains('Oferte Website WordPress'))::before {
-      content: "\f02c";
-    }
-    h2:has(:contains('Detalii pachet Starter'))::before {
-      content: "\f0cb";
-    }
-    h2:has(:contains('Termeni și condiții'))::before {
-      content: "\f56f";
-    }
     .offers {
       display: flex;
       flex-wrap: wrap;
@@ -174,6 +157,89 @@
   </style>
 </head>
 <body>
-  <!-- restul codului rămâne neschimbat -->
+  <header>
+    <h1>Website-uri WordPress Profesionale</h1>
+    <p>Oferte moderne, atractive și adaptate anului 2025</p>
+  </header>
+
+  <section>
+    <h2><i class="fas fa-user"></i> Despre mine</h2>
+    <p>Sunt <strong>Marian Dumitru</strong>, UX/UI Designer & Frontend Developer cu experiență în crearea de website-uri moderne, rapide și optimizate pentru conversie. Misiunea mea este să ofer soluții web accesibile și eficiente pentru antreprenori, organizații și proiecte cu viziune.</p>
+  </section>
+
+  <section>
+    <h2><i class="fas fa-tags"></i> Oferte Website WordPress</h2>
+    <div class="offers">
+      <div class="offer">
+        <h3>Starter</h3>
+        <p class="price">350 EUR</p>
+        <ul>
+          <li>Website de prezentare WordPress</li>
+          <li>5 pagini esențiale</li>
+          <li>Design responsive</li>
+          <li>Formular de contact</li>
+          <li>Integrare Google Maps</li>
+          <li>SEO de bază</li>
+        </ul>
+        <a href="mailto:thetechologyhub@gmail.com?subject=Doresc%20oferta%20website%20WordPress" class="btn">Solicită oferta</a>
+      </div>
+
+      <div class="offer">
+        <h3>Standard</h3>
+        <p class="price">550 EUR</p>
+        <ul>
+          <li>Tot ce include Starter</li>
+          <li>Secțiune blog</li>
+          <li>Optimizare viteză încărcare</li>
+          <li>Mentorat post-lansare 7 zile</li>
+          <li>Design personalizat extra</li>
+        </ul>
+        <a href="mailto:thetechologyhub@gmail.com?subject=Doresc%20oferta%20website%20WordPress" class="btn">Solicită oferta</a>
+      </div>
+
+      <div class="offer">
+        <h3>Pro</h3>
+        <p class="price">850 EUR</p>
+        <ul>
+          <li>Tot ce include Standard</li>
+          <li>Creare logo + branding</li>
+          <li>Landing page profesional</li>
+          <li>Audit SEO complet</li>
+          <li>Asistență tehnică 30 zile</li>
+        </ul>
+        <a href="mailto:thetechologyhub@gmail.com?subject=Doresc%20oferta%20website%20WordPress" class="btn">Solicită oferta</a>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2><i class="fas fa-cube"></i> Detalii pachet Starter</h2>
+    <ul>
+      <li>Consultanță și structurare conținut</li>
+      <li>Instalare și configurare WordPress</li>
+      <li>Temă profesională și personalizare</li>
+      <li>Website optimizat pentru mobil</li>
+      <li>Formular de contact + Maps</li>
+      <li>Integrare rețele sociale</li>
+      <li>Optimizare SEO de bază</li>
+      <li>Ghid administrare website</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2><i class="fas fa-file-contract"></i> Termeni și condiții</h2>
+    <ul>
+      <li>Plata: 50% avans, 50% la livrare</li>
+      <li>Durată execuție: 7-10 zile lucrătoare</li>
+      <li>Conținutul este furnizat de client</li>
+      <li>Nu include găzduire sau domeniu</li>
+      <li>Modificări extra se taxează suplimentar</li>
+      <li>Oferta valabilă până la 30 aprilie 2025</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Marian Dumitru. Toate drepturile rezervate.</p>
+  </footer>
 </body>
 </html>
